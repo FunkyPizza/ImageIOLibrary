@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ImageIOLibrary",
+	"Description": "Import, Edit and Save images at runtime!",
+	"Category": "File System",
+	"CreatedBy": "LambdaWorks",
+	"CreatedByURL": "www.samuelmetters.co.uk/ImageIOLibrary",
+	"DocsURL": "www.samuelmetters.co.uk/ImageIOLibrary",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a55c833af84b4ca59959607258f4a502",
+	"SupportURL": "www.lambdaworks.co.uk",
+	"EngineVersion": "4.25.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ImageIOLibrary",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Mac"
+			]
+		}
+	]
+}
